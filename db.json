@@ -1,0 +1,34 @@
+{
+  "reservas": [
+    {
+      "id": "4b4b",
+      "name": "teste",
+      "email": "teste@teste.com",
+      "checkin": "2024-07-29",
+      "checkout": "2024-08-06",
+      "notes": "",
+      "adults": 1,
+      "children": 1
+    },
+    {
+      "id": "8190",
+      "name": "João da Silva",
+      "email": "joaomelao@gmail.com",
+      "checkin": "2024-08-06",
+      "checkout": "2024-08-12",
+      "notes": "cobertores extras",
+      "adults": 2,
+      "children": 1
+    },
+    {
+      "id": "0c3b",
+      "name": "Edward Lacerda",
+      "email": "elacerda@gmail.com",
+      "checkin": "2024-08-31",
+      "checkout": "2024-09-01",
+      "notes": "Depois de tanto sufoco mereço o A ;)",
+      "adults": 2,
+      "children": 0
+    }
+  ]
+}
